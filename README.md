@@ -1,3 +1,3 @@
 # nyamtam
 
-A new Flutter project.
+01.02 Dev started.
