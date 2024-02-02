@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525684710603",
+    "project_id": "nyamtam-d69a0",
+    "storage_bucket": "nyamtam-d69a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525684710603:android:f154a56caa7ce68d22cf4e",
+        "android_client_info": {
+          "package_name": "com.example.nyamtam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLzZ6Cy5Fgrq5evomEOV-wZsTvsf1rjYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
