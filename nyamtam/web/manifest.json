@@ -1,6 +1,6 @@
 {
-    "name": "nyamtam",
-    "short_name": "nyamtam",
+    "name": "minimallogin",
+    "short_name": "minimallogin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

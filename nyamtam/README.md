@@ -1,3 +1,3 @@
 # nyamtam
 
-A new Flutter project.
+Started 01.02

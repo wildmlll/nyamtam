@@ -1,4 +1,4 @@
-package com.example.nyamtam
+package com.example.minimallogin
 
 import io.flutter.embedding.android.FlutterActivity
 
